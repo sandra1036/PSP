@@ -1,0 +1,105 @@
+  PID TTY          TIME CMD
+ 2285 ?        00:00:00 systemd
+ 2286 ?        00:00:00 (sd-pam)
+ 2291 ?        00:00:00 gnome-keyring-d
+ 2293 ?        00:00:00 upstart
+ 2381 ?        00:00:00 upstart-udev-br
+ 2392 ?        00:00:04 dbus-daemon
+ 2404 ?        00:00:00 window-stack-br
+ 2431 ?        00:00:24 ibus-daemon
+ 2436 ?        00:00:00 gvfsd
+ 2441 ?        00:00:00 gvfsd-fuse
+ 2444 ?        00:00:00 ibus-dconf
+ 2445 ?        00:00:06 ibus-ui-gtk3
+ 2452 ?        00:00:00 ibus-x11
+ 2459 ?        00:00:00 upstart-file-br
+ 2461 ?        00:00:00 upstart-dbus-br
+ 2463 ?        00:00:00 upstart-dbus-br
+ 2482 ?        00:00:06 ibus-engine-sim
+ 2493 ?        00:00:05 bamfdaemon
+ 2500 ?        00:00:00 gpg-agent
+ 2510 ?        00:00:08 hud-service
+ 2512 ?        00:00:01 unity-settings-
+ 2516 ?        00:00:00 at-spi-bus-laun
+ 2518 ?        00:00:00 gnome-session-b
+ 2530 ?        00:00:00 dbus-daemon
+ 2532 ?        00:00:08 unity-panel-ser
+ 2540 ?        00:00:02 at-spi2-registr
+ 2561 ?        00:00:00 indicator-messa
+ 2562 ?        00:00:00 indicator-bluet
+ 2569 ?        00:00:00 indicator-power
+ 2572 ?        00:00:00 indicator-datet
+ 2573 ?        00:00:00 indicator-keybo
+ 2575 ?        00:00:00 indicator-sound
+ 2576 ?        00:00:00 indicator-print
+ 2577 ?        00:00:00 indicator-sessi
+ 2596 ?        00:00:00 indicator-appli
+ 2614 ?        00:00:05 pulseaudio
+ 2643 ?        00:00:00 evolution-sourc
+ 2667 ?        00:00:00 dconf-service
+ 2685 ?        00:00:00 python3
+ 2690 ?        00:00:00 polkit-gnome-au
+ 2694 ?        00:00:00 nm-applet
+ 2707 ?        00:00:19 nautilus
+ 2721 ?        00:00:04 gnome-software
+ 2725 ?        00:00:00 unity-fallback-
+ 2736 ?        00:00:00 gvfs-udisks2-vo
+ 2744 ?        00:00:00 evolution-calen
+ 2745 ?        00:06:33 compiz
+ 2780 ?        00:00:00 gvfs-afc-volume
+ 2787 ?        00:00:00 gvfs-mtp-volume
+ 2793 ?        00:00:00 evolution-calen
+ 2795 ?        00:00:00 gvfs-gphoto2-vo
+ 2807 ?        00:00:00 evolution-addre
+ 2809 ?        00:00:00 evolution-calen
+ 2826 ?        00:00:00 gvfs-goa-volume
+ 2837 ?        00:00:00 evolution-addre
+ 2852 ?        00:00:00 gvfsd-trash
+ 2882 ?        00:00:00 gvfsd-metadata
+ 2902 ?        00:00:00 sh
+ 2906 ?        00:00:00 zeitgeist-daemo
+ 2913 ?        00:00:00 zeitgeist-fts
+ 2915 ?        00:00:04 zeitgeist-datah
+ 2935 ?        00:02:54 chrome
+ 2942 ?        00:00:00 cat
+ 2943 ?        00:00:00 cat
+ 2950 ?        00:00:00 chrome
+ 2951 ?        00:00:00 nacl_helper
+ 2954 ?        00:00:00 chrome
+ 2974 ?        00:02:54 chrome
+ 2979 ?        00:00:13 chrome
+ 3012 ?        00:00:00 chrome
+ 3021 ?        00:00:00 notify-osd
+ 3156 ?        00:01:26 chrome
+ 3231 ?        00:00:04 chrome
+ 3881 ?        00:00:00 deja-dup-monito
+ 4686 ?        00:00:00 gvfsd-network
+ 4699 ?        00:00:00 gvfsd-smb-brows
+ 4713 ?        00:00:00 gvfsd-dnssd
+ 5256 ?        00:00:01 gvfsd-smb
+ 5371 ?        00:00:00 gvfsd-http
+23972 ?        00:00:00 unity-scope-hom
+23983 ?        00:00:00 unity-scope-loa
+23985 ?        00:00:00 unity-files-dae
+25722 ?        00:00:00 mysqld_safe
+26009 ?        00:00:14 mysqld.bin
+26034 ?        00:00:00 httpd.bin
+26036 ?        00:00:00 httpd.bin
+26037 ?        00:00:00 httpd.bin
+26038 ?        00:00:00 httpd.bin
+26039 ?        00:00:00 httpd.bin
+26040 ?        00:00:00 httpd.bin
+26943 ?        00:00:27 chrome
+27032 ?        00:00:01 gnome-terminal-
+27111 ?        00:00:00 chrome
+27153 ?        00:00:23 evince
+27160 ?        00:00:00 evinced
+27213 ?        00:00:17 evince
+27420 ?        00:00:15 gedit
+27432 ?        00:00:00 oosplash
+27452 ?        00:00:18 soffice.bin
+27610 ?        00:00:04 gnome-screensho
+27722 ?        00:00:00 chrome
+27909 ?        00:00:00 a.out
+27910 ?        00:00:00 sh
+27912 ?        00:00:00 ps
